@@ -1,0 +1,238 @@
+[
+    {
+        "id": 9,
+        "name": "Gigabyte G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H laptop",
+        "slug": "gigabyte-g5-mf-g2in313sh-gaming-laptop-intel-core-i7-12th-gen-12650h",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/4eDPjhE",
+        "description": "GIGABYTE G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) (15 inch, Black, 2.08 Kg)",
+        "features": [
+            "Intel Core i7 12th Gen 12650H",
+            "16 GB RAM",
+            "512 GB SSD",
+            "Windows 11 Home",
+            "6 GB Graphics / NVIDIA GeForce RTX 4050",
+            "15 inch Display",
+            "Weight: 2.08 Kg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "HONOR MagicBook X14 Pro 2024, 12th Gen Intel Core i5-12450H, 16-inch",
+        "slug": "honor-magicbook-x14-pro-2024-12th-gen-intel-core-i5-12450h-16-inch",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/46xfAMl",
+        "description": "HONOR MagicBook X16 (2024), 12th Gen Intel Core i5-12450H, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/ Full-Size Numeric Keyboard /1.68Kg), Gray",
+        "features": [
+            "12th Gen Intel Core i5-12450H",
+            "16-inch (40.64 cm) FHD IPS Anti-Glare Display",
+            "16GB RAM",
+            "512GB PCIe SSD",
+            "Windows 11",
+            "Full-Size Numeric Keyboard",
+            "Weight: 1.68Kg",
+            "Color: Gray"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "HONOR MagicBook X14 Pro 2024, 13th Gen Intel Core i5-13420H",
+        "slug": "honor-magicbook-x14-pro-2024-13th-gen-intel-core-i5-13420h",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/4knCIAf",
+        "description": "HONOR MagicBook X16 Pro 2024, 13th Gen Intel Core i5-13420H (16GB/512GB NVMe SSD, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop/Windows 11/Backlit Keyboard/Fingerprint/1.75Kg), Gray",
+        "features": [
+            "13th Gen Intel Core i5-13420H",
+            "16GB RAM",
+            "512GB NVMe SSD",
+            "16-inch FHD IPS Anti-Glare Display",
+            "Windows 11",
+            "Backlit Keyboard",
+            "Fingerprint Sensor",
+            "Weight: 1.75Kg",
+            "Color: Gray"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "SSD for Laptop",
+        "slug": "ssd-for-laptop-crucial-bx500-500gb",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/405cAD9",
+        "description": "Crucial BX500 500GB 2.5-inch SATA 3D NAND Internal SSD Upto 550 MB/s",
+        "features": [
+            "500GB Capacity",
+            "2.5-inch SATA",
+            "3D NAND Technology",
+            "Read Speed: Up to 550 MB/s"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Acer Nitro V Gaming Laptop AMD Ryzen 7",
+        "slug": "acer-nitro-v-gaming-laptop-amd-ryzen-7",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/44ww7O4",
+        "description": "Acer Nitro V Gaming Laptop AMD Ryzen 7-7735HS with RTX 4050 6 GB Graphics (16 GB DDR5/512GB SSD/Windows 11 Home/Wi-Fi 6/144Hz) ANV15-41, 15.6\" FHD Display, 2.1 KG","features": [
+            "AMD Ryzen 7-7735HS",
+            "NVIDIA GeForce RTX 4050 6GB",
+            "16 GB DDR5 RAM",
+            "512GB SSD",
+            "Windows 11 Home",
+            "Wi-Fi 6",
+            "144Hz Refresh Rate",
+            "15.6\" FHD Display","Weight: 2.1 KG"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "2nd HDD Caddy for Laptop",
+        "slug": "2nd-hdd-caddy-for-laptop",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/3YjM9I7",
+        "description": "9.5mm CD/DVD to Harddisk Caddy secon harddrive ssd Slim sata III Universal 2nd HDD Caddy for Laptop",
+        "features": [
+            "9.5mm Thickness",
+            "Converts CD/DVD Bay to 2nd HDD/SSD Slot",
+            "SATA III Interface",
+            "Universal Compatibility"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz",
+        "slug": "portronics-toad-23-wireless-optical-mouse",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/4eNqr75",
+        "description": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
+        "features": [
+            "2.4GHz Wireless",
+            "USB Nano Dongle",
+            "Optical Sensor",
+            "Click Wheel",
+            "Adjustable DPI",
+            "Color: Black"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Portronics Toad 27 Wireless Mouse, Silent Buttons",
+        "slug": "portronics-toad-27-wireless-mouse-silent-buttons",
+        "category": "Electronics",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/4eBRLVL",
+        "description": "Portronics Toad 27 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Nano Dongle for PC/Mac/Laptop, Auto Power Saving Mode, Adjustable DPI Button(Green)",
+        "features": [
+            "Silent Click Buttons",
+            "2.4 GHz Wireless",
+            "USB Nano Dongle",
+            "Auto Power Saving Mode",
+            "Adjustable DPI Button",
+            "Color: Green"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
+        "slug": "csir-net-jrf-mathematics-previous-years-solved-papers-volume-1",
+        "category": "Books",
+        "price": 0,
+        "originalPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "image": "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg"
+        ],
+        "inStock": true,
+        "featured": true,
+        "affiliateUrl": "https://amzn.to/44wwcRS",
+        "description": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
+        "features": [
+            "6th Edition",
+            "Covers June 2011 to June 2024 Exams",
+            "Focus: Pure Mathematics",
+            "Solved Papers with Explanations",
+            "Paperback Format"
+        ]
+    }
+]
