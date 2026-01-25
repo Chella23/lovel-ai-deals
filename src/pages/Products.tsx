@@ -16,13 +16,13 @@ export default function Products() {
   const [sortBy, setSortBy] = useState<string>('featured');
 
   useEffect(() => {
-    fetch('/data/products.json')
+    fetch(import.meta.env.BASE_URL + 'data/products.json')
       .then(res => res.json())
       .then((data: Product[]) => {
         setProducts(data);
         const uniqueCategories = Array.from(new Set(data.map(p => p.category)));
         setCategories(uniqueCategories);
-        
+
         // Check URL params for category
         const categoryParam = searchParams.get('category');
         if (categoryParam) {

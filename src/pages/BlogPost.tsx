@@ -14,16 +14,16 @@ export default function BlogPost() {
   const [relatedProducts, setRelatedProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    fetch('/data/blog-posts.json')
+    fetch(import.meta.env.BASE_URL + 'data/blog-posts.json')
       .then(res => res.json())
       .then((data: BlogPostType[]) => {
         const found = data.find(p => p.slug === slug);
         if (found) {
           setPost(found);
-          
+
           // Load related products
           if (found.relatedProducts.length > 0) {
-            fetch('/data/products.json')
+            fetch(import.meta.env.BASE_URL + 'data/products.json')
               .then(res => res.json())
               .then((products: Product[]) => {
                 const related = products.filter(p => found.relatedProducts.includes(p.id));
@@ -65,7 +65,7 @@ export default function BlogPost() {
         <div className="max-w-4xl mx-auto mb-8">
           <Badge className="mb-4">{post.category}</Badge>
           <h1 className="text-4xl md:text-5xl font-bold mb-6">{post.title}</h1>
-          
+
           <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground mb-8">
             <div className="flex items-center">
               <User className="h-4 w-4 mr-2" />
@@ -95,15 +95,15 @@ export default function BlogPost() {
         <div className="max-w-3xl mx-auto prose prose-lg dark:prose-invert mb-16">
           <ReactMarkdown
             components={{
-              h1: ({node, ...props}) => <h1 className="text-3xl font-bold mt-8 mb-4" {...props} />,
-              h2: ({node, ...props}) => <h2 className="text-2xl font-bold mt-6 mb-3" {...props} />,
-              h3: ({node, ...props}) => <h3 className="text-xl font-bold mt-4 mb-2" {...props} />,
-              p: ({node, ...props}) => <p className="mb-4 text-foreground leading-relaxed" {...props} />,
-              ul: ({node, ...props}) => <ul className="list-disc pl-6 mb-4 space-y-2" {...props} />,
-              ol: ({node, ...props}) => <ol className="list-decimal pl-6 mb-4 space-y-2" {...props} />,
-              li: ({node, ...props}) => <li className="text-foreground" {...props} />,
-              strong: ({node, ...props}) => <strong className="font-bold" {...props} />,
-              em: ({node, ...props}) => <em className="italic" {...props} />,
+              h1: ({ node, ...props }) => <h1 className="text-3xl font-bold mt-8 mb-4" {...props} />,
+              h2: ({ node, ...props }) => <h2 className="text-2xl font-bold mt-6 mb-3" {...props} />,
+              h3: ({ node, ...props }) => <h3 className="text-xl font-bold mt-4 mb-2" {...props} />,
+              p: ({ node, ...props }) => <p className="mb-4 text-foreground leading-relaxed" {...props} />,
+              ul: ({ node, ...props }) => <ul className="list-disc pl-6 mb-4 space-y-2" {...props} />,
+              ol: ({ node, ...props }) => <ol className="list-decimal pl-6 mb-4 space-y-2" {...props} />,
+              li: ({ node, ...props }) => <li className="text-foreground" {...props} />,
+              strong: ({ node, ...props }) => <strong className="font-bold" {...props} />,
+              em: ({ node, ...props }) => <em className="italic" {...props} />,
             }}
           >
             {post.content}
@@ -121,8 +121,8 @@ export default function BlogPost() {
         {/* Disclaimer */}
         <div className="max-w-3xl mx-auto mt-16 p-6 bg-secondary/30 rounded-lg border border-border">
           <p className="text-sm text-muted-foreground">
-            <strong>Affiliate Disclosure:</strong> This article contains affiliate links. 
-            We earn a commission from qualifying purchases made through links in this article, 
+            <strong>Affiliate Disclosure:</strong> This article contains affiliate links.
+            We earn a commission from qualifying purchases made through links in this article,
             at no extra cost to you. We only recommend products we believe will add value to our readers.
           </p>
         </div>

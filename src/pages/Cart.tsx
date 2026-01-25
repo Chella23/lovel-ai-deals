@@ -18,7 +18,7 @@ export default function Cart() {
             <ShoppingBag className="h-24 w-24 mx-auto mb-6 text-muted-foreground" />
             <h1 className="text-3xl font-bold mb-4">Your Cart is Empty</h1>
             <p className="text-muted-foreground mb-8">
-              Looks like you haven't added any products to your cart yet. 
+              Looks like you haven't added any products to your cart yet.
               Browse our collection and find great deals!
             </p>
             <Button asChild size="lg">
@@ -47,7 +47,7 @@ export default function Cart() {
                       alt={item.name}
                       className="w-32 h-32 object-cover rounded-md"
                     />
-                    
+
                     <div className="flex-1 min-w-0">
                       <h3 className="font-semibold text-lg mb-2 truncate">{item.name}</h3>
                       <p className="text-2xl font-bold text-primary mb-4">
@@ -136,7 +136,7 @@ export default function Cart() {
                   <p className="text-sm text-center text-muted-foreground mb-4">
                     This is a simulated cart. Click the button below to view deals for each product.
                   </p>
-                  
+
                   {items.map(item => (
                     <Button
                       key={item.id}
@@ -145,7 +145,7 @@ export default function Cart() {
                       asChild
                     >
                       <a
-                        href={item.affiliateUrl}
+                        href={`https://www.amazon.in/dp/${item.asin}/?tag=chella09-21`}
                         target="_blank"
                         rel="noopener noreferrer nofollow"
                       >

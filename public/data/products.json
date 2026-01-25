@@ -1,238 +1,1057 @@
 [
-    {
-        "id": 9,
-        "name": "Gigabyte G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H laptop",
-        "slug": "gigabyte-g5-mf-g2in313sh-gaming-laptop-intel-core-i7-12th-gen-12650h",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/4eDPjhE",
-        "description": "GIGABYTE G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) (15 inch, Black, 2.08 Kg)",
-        "features": [
-            "Intel Core i7 12th Gen 12650H",
-            "16 GB RAM",
-            "512 GB SSD",
-            "Windows 11 Home",
-            "6 GB Graphics / NVIDIA GeForce RTX 4050",
-            "15 inch Display",
-            "Weight: 2.08 Kg"
-        ]
-    },
-    {
-        "id": 10,
-        "name": "HONOR MagicBook X14 Pro 2024, 12th Gen Intel Core i5-12450H, 16-inch",
-        "slug": "honor-magicbook-x14-pro-2024-12th-gen-intel-core-i5-12450h-16-inch",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/46xfAMl",
-        "description": "HONOR MagicBook X16 (2024), 12th Gen Intel Core i5-12450H, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/ Full-Size Numeric Keyboard /1.68Kg), Gray",
-        "features": [
-            "12th Gen Intel Core i5-12450H",
-            "16-inch (40.64 cm) FHD IPS Anti-Glare Display",
-            "16GB RAM",
-            "512GB PCIe SSD",
-            "Windows 11",
-            "Full-Size Numeric Keyboard",
-            "Weight: 1.68Kg",
-            "Color: Gray"
-        ]
-    },
-    {
-        "id": 11,
-        "name": "HONOR MagicBook X14 Pro 2024, 13th Gen Intel Core i5-13420H",
-        "slug": "honor-magicbook-x14-pro-2024-13th-gen-intel-core-i5-13420h",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/4knCIAf",
-        "description": "HONOR MagicBook X16 Pro 2024, 13th Gen Intel Core i5-13420H (16GB/512GB NVMe SSD, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop/Windows 11/Backlit Keyboard/Fingerprint/1.75Kg), Gray",
-        "features": [
-            "13th Gen Intel Core i5-13420H",
-            "16GB RAM",
-            "512GB NVMe SSD",
-            "16-inch FHD IPS Anti-Glare Display",
-            "Windows 11",
-            "Backlit Keyboard",
-            "Fingerprint Sensor",
-            "Weight: 1.75Kg",
-            "Color: Gray"
-        ]
-    },
-    {
-        "id": 12,
-        "name": "SSD for Laptop",
-        "slug": "ssd-for-laptop-crucial-bx500-500gb",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/405cAD9",
-        "description": "Crucial BX500 500GB 2.5-inch SATA 3D NAND Internal SSD Upto 550 MB/s",
-        "features": [
-            "500GB Capacity",
-            "2.5-inch SATA",
-            "3D NAND Technology",
-            "Read Speed: Up to 550 MB/s"
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Acer Nitro V Gaming Laptop AMD Ryzen 7",
-        "slug": "acer-nitro-v-gaming-laptop-amd-ryzen-7",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/44ww7O4",
-        "description": "Acer Nitro V Gaming Laptop AMD Ryzen 7-7735HS with RTX 4050 6 GB Graphics (16 GB DDR5/512GB SSD/Windows 11 Home/Wi-Fi 6/144Hz) ANV15-41, 15.6\" FHD Display, 2.1 KG","features": [
-            "AMD Ryzen 7-7735HS",
-            "NVIDIA GeForce RTX 4050 6GB",
-            "16 GB DDR5 RAM",
-            "512GB SSD",
-            "Windows 11 Home",
-            "Wi-Fi 6",
-            "144Hz Refresh Rate",
-            "15.6\" FHD Display","Weight: 2.1 KG"
-        ]
-    },
-    {
-        "id": 14,
-        "name": "2nd HDD Caddy for Laptop",
-        "slug": "2nd-hdd-caddy-for-laptop",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/3YjM9I7",
-        "description": "9.5mm CD/DVD to Harddisk Caddy secon harddrive ssd Slim sata III Universal 2nd HDD Caddy for Laptop",
-        "features": [
-            "9.5mm Thickness",
-            "Converts CD/DVD Bay to 2nd HDD/SSD Slot",
-            "SATA III Interface",
-            "Universal Compatibility"
-        ]
-    },
-    {
-        "id": 15,
-        "name": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz",
-        "slug": "portronics-toad-23-wireless-optical-mouse",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/4eNqr75",
-        "description": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
-        "features": [
-            "2.4GHz Wireless",
-            "USB Nano Dongle",
-            "Optical Sensor",
-            "Click Wheel",
-            "Adjustable DPI",
-            "Color: Black"
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Portronics Toad 27 Wireless Mouse, Silent Buttons",
-        "slug": "portronics-toad-27-wireless-mouse-silent-buttons",
-        "category": "Electronics",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/4eBRLVL",
-        "description": "Portronics Toad 27 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Nano Dongle for PC/Mac/Laptop, Auto Power Saving Mode, Adjustable DPI Button(Green)",
-        "features": [
-            "Silent Click Buttons",
-            "2.4 GHz Wireless",
-            "USB Nano Dongle",
-            "Auto Power Saving Mode",
-            "Adjustable DPI Button",
-            "Color: Green"
-        ]
-    },
-    {
-        "id": 17,
-        "name": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
-        "slug": "csir-net-jrf-mathematics-previous-years-solved-papers-volume-1",
-        "category": "Books",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 0,
-        "reviews": 0,
-        "image": "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg",
-        "images": [
-            "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg"
-        ],
-        "inStock": true,
-        "featured": true,
-        "affiliateUrl": "https://amzn.to/44wwcRS",
-        "description": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
-        "features": [
-            "6th Edition",
-            "Covers June 2011 to June 2024 Exams",
-            "Focus: Pure Mathematics",
-            "Solved Papers with Explanations",
-            "Paperback Format"
-        ]
-    }
+  {
+    "id": 9,
+    "name": "Gigabyte G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H laptop",
+    "slug": "gigabyte-g5-mf-g2in313sh-gaming-laptop-intel-core-i7-12th-gen-12650h",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61eBl2qhjBL.*SX425*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "GIGABYTE G5 MF-G2IN313SH Gaming Laptop Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) (15 inch, Black, 2.08 Kg)",
+    "features": [
+      "Intel Core i7 12th Gen 12650H",
+      "16 GB RAM",
+      "512 GB SSD",
+      "Windows 11 Home",
+      "6 GB Graphics / NVIDIA GeForce RTX 4050",
+      "15 inch Display",
+      "Weight: 2.08 Kg"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 10,
+    "name": "HONOR MagicBook X14 Pro 2024, 12th Gen Intel Core i5-12450H, 16-inch",
+    "slug": "honor-magicbook-x14-pro-2024-12th-gen-intel-core-i5-12450h-16-inch",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "HONOR MagicBook X16 (2024), 12th Gen Intel Core i5-12450H, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/ Full-Size Numeric Keyboard /1.68Kg), Gray",
+    "features": [
+      "12th Gen Intel Core i5-12450H",
+      "16-inch (40.64 cm) FHD IPS Anti-Glare Display",
+      "16GB RAM",
+      "512GB PCIe SSD",
+      "Windows 11",
+      "Full-Size Numeric Keyboard",
+      "Weight: 1.68Kg",
+      "Color: Gray"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 11,
+    "name": "HONOR MagicBook X14 Pro 2024, 13th Gen Intel Core i5-13420H",
+    "slug": "honor-magicbook-x14-pro-2024-13th-gen-intel-core-i5-13420h",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51s0DgvzimL.*SX522*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "HONOR MagicBook X16 Pro 2024, 13th Gen Intel Core i5-13420H (16GB/512GB NVMe SSD, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop/Windows 11/Backlit Keyboard/Fingerprint/1.75Kg), Gray",
+    "features": [
+      "13th Gen Intel Core i5-13420H",
+      "16GB RAM",
+      "512GB NVMe SSD",
+      "16-inch FHD IPS Anti-Glare Display",
+      "Windows 11",
+      "Backlit Keyboard",
+      "Fingerprint Sensor",
+      "Weight: 1.75Kg",
+      "Color: Gray"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 12,
+    "name": "SSD for Laptop",
+    "slug": "ssd-for-laptop-crucial-bx500-500gb",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51oMYYVvx0L.*SX425*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "Crucial BX500 500GB 2.5-inch SATA 3D NAND Internal SSD Upto 550 MB/s",
+    "features": [
+      "500GB Capacity",
+      "2.5-inch SATA",
+      "3D NAND Technology",
+      "Read Speed: Up to 550 MB/s"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 13,
+    "name": "Acer Nitro V Gaming Laptop AMD Ryzen 7",
+    "slug": "acer-nitro-v-gaming-laptop-amd-ryzen-7",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51ViDFxb0ZL.*SX522*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "Acer Nitro V Gaming Laptop AMD Ryzen 7-7735HS with RTX 4050 6 GB Graphics (16 GB DDR5/512GB SSD/Windows 11 Home/Wi-Fi 6/144Hz) ANV15-41, 15.6\" FHD Display, 2.1 KG",
+    "features": [
+      "AMD Ryzen 7-7735HS",
+      "NVIDIA GeForce RTX 4050 6GB",
+      "16 GB DDR5 RAM",
+      "512GB SSD",
+      "Windows 11 Home",
+      "Wi-Fi 6",
+      "144Hz Refresh Rate",
+      "15.6\" FHD Display",
+      "Weight: 2.1 KG"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 14,
+    "name": "2nd HDD Caddy for Laptop",
+    "slug": "2nd-hdd-caddy-for-laptop",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51YFQoPsn0L.*SY450*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "9.5mm CD/DVD to Harddisk Caddy secon harddrive ssd Slim sata III Universal 2nd HDD Caddy for Laptop",
+    "features": [
+      "9.5mm Thickness",
+      "Converts CD/DVD Bay to 2nd HDD/SSD Slot",
+      "SATA III Interface",
+      "Universal Compatibility"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 15,
+    "name": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz",
+    "slug": "portronics-toad-23-wireless-optical-mouse",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/218fOqSir3L.*SX300_SY300_QL70_FMwebp*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle, Optical Orientation, Click Wheel, Adjustable DPI(Black)",
+    "features": [
+      "2.4GHz Wireless",
+      "USB Nano Dongle",
+      "Optical Sensor",
+      "Click Wheel",
+      "Adjustable DPI",
+      "Color: Black"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 16,
+    "name": "Portronics Toad 27 Wireless Mouse, Silent Buttons",
+    "slug": "portronics-toad-27-wireless-mouse-silent-buttons",
+    "category": "Electronics",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31xHHvPSKgL.*SX300_SY300_QL70_FMwebp*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "Portronics Toad 27 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Nano Dongle for PC/Mac/Laptop, Auto Power Saving Mode, Adjustable DPI Button(Green)",
+    "features": [
+      "Silent Click Buttons",
+      "2.4 GHz Wireless",
+      "USB Nano Dongle",
+      "Auto Power Saving Mode",
+      "Adjustable DPI Button",
+      "Color: Green"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 17,
+    "name": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
+    "slug": "csir-net-jrf-mathematics-previous-years-solved-papers-volume-1",
+    "category": "Books",
+    "price": 0,
+    "originalPrice": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81b28YVU+RL.*SY385*.jpg"
+    ],
+    "inStock": true,
+    "featured": true,
+    "description": "CSIR-NET/JRF Mathematics Previous Years Solved Papers Volume -1 Pure Mathematics 6th Edition (June 2011 to June 2024) Paperback – 1 January 2018",
+    "features": [
+      "6th Edition",
+      "Covers June 2011 to June 2024 Exams",
+      "Focus: Pure Mathematics",
+      "Solved Papers with Explanations",
+      "Paperback Format"
+    ],
+    "asin": ""
+  },
+  {
+    "id": 18,
+    "name": "DJI Osmo Pocket 3, Vlogging Camera with 1'' CMOS & 4K/120fps Video, 3-Axis Stabilization, Fast Focusing, Face/Object Tracking, 2\" Rotatable Touchscreen",
+    "slug": "dji-osmo-pocket-3-vlogging-camera-with-1-cmos-4k120fps-video-3-axis-stabilization-fast-focusing-face",
+    "category": "Electronics",
+    "price": 40511,
+    "originalPrice": 40511,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31HSfH1VceL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31HSfH1VceL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DJI Osmo Pocket 3, Vlogging Camera with 1'' CMOS & 4K/120fps Video, 3-Axis Stabilization, Fast Focusing, Face/Object Tracking, 2\" Rotatable Touchscreen",
+    "features": [],
+    "asin": "B0CG19QXWD"
+  },
+  {
+    "id": 19,
+    "name": "DIGITEK® (DSL-25W RGB) Stick Light Portable Handheld RGB LED Light Wand with Barn Door & Remote Control",
+    "slug": "digitek-dsl-25w-rgb-stick-light-portable-handheld-rgb-led-light-wand-with-barn-door-remote-control",
+    "category": "Electronics",
+    "price": 3999,
+    "originalPrice": 3999,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/217AFhNgR5L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/217AFhNgR5L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DIGITEK® (DSL-25W RGB) Stick Light Portable Handheld RGB LED Light Wand with Barn Door & Remote Control",
+    "features": [],
+    "asin": "B0BCFR26VH"
+  },
+  {
+    "id": 20,
+    "name": "DIGITEK® Lite (DCL-250 WBC Combo) 250W Bi Color Continuous LED Video Light",
+    "slug": "digitek-lite-dcl-250-wbc-combo-250w-bi-color-continuous-led-video-light",
+    "category": "Electronics",
+    "price": 7899,
+    "originalPrice": 7899,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31kpNc17tZL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31kpNc17tZL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DIGITEK® Lite (DCL-250 WBC Combo) 250W Bi Color Continuous LED Video Light",
+    "features": [],
+    "asin": "B09PFXPTF1"
+  },
+  {
+    "id": 21,
+    "name": "Digitek® (DSB-65 Bowens) Portable Bowens Octagon Softbox with Double Diffuser Cloth",
+    "slug": "digitek-dsb-65-bowens-portable-bowens-octagon-softbox-with-double-diffuser-cloth",
+    "category": "Electronics",
+    "price": 2299,
+    "originalPrice": 2299,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41AOhufYkpL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41AOhufYkpL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Digitek® (DSB-65 Bowens) Portable Bowens Octagon Softbox with Double Diffuser Cloth",
+    "features": [],
+    "asin": "B09K4BXHG5"
+  },
+  {
+    "id": 22,
+    "name": "Transcend TS-RDF5K USB 3.1 Gen 1 Card Reader (Black)",
+    "slug": "transcend-ts-rdf5k-usb-31-gen-1-card-reader-black",
+    "category": "Electronics",
+    "price": 709,
+    "originalPrice": 709,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31iIcMzIiRL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31iIcMzIiRL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Transcend TS-RDF5K USB 3.1 Gen 1 Card Reader (Black)",
+    "features": [],
+    "asin": "B009D79VH4"
+  },
+  {
+    "id": 23,
+    "name": "SanDisk Extreme SD UHS I 128GB Card for 4K Video for DSLR and Mirrorless Cameras",
+    "slug": "sandisk-extreme-sd-uhs-i-128gb-card-for-4k-video-for-dslr-and-mirrorless-cameras",
+    "category": "Electronics",
+    "price": 2399,
+    "originalPrice": 2399,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41IDXR5gxFL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41IDXR5gxFL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "SanDisk Extreme SD UHS I 128GB Card for 4K Video for DSLR and Mirrorless Cameras",
+    "features": [],
+    "asin": "B09X7DZ9LG"
+  },
+  {
+    "id": 24,
+    "name": "Boya Omnidirectional Auxiliary Lavalier Condenser Microphone with 20 feet Audio Cable",
+    "slug": "boya-omnidirectional-auxiliary-lavalier-condenser-microphone-with-20-feet-audio-cable",
+    "category": "Electronics",
+    "price": 873,
+    "originalPrice": 873,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31Woj+50aoL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31Woj+50aoL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Boya Omnidirectional Auxiliary Lavalier Condenser Microphone with 20 feet Audio Cable",
+    "features": [],
+    "asin": "B00EPZZS4O"
+  },
+  {
+    "id": 25,
+    "name": "HIFFIN E27 Studio Single Holder Umbrella Lighting Kit for Photography",
+    "slug": "hiffin-e27-studio-single-holder-umbrella-lighting-kit-for-photography",
+    "category": "Electronics",
+    "price": 3350,
+    "originalPrice": 3350,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41omWB1LNHL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41omWB1LNHL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "HIFFIN E27 Studio Single Holder Umbrella Lighting Kit for Photography",
+    "features": [],
+    "asin": "B08DCY368Q"
+  },
+  {
+    "id": 26,
+    "name": "Wipro Next Smart Wi-Fi 20W CCT+RGB LED Batten, LED Smart Tube Light with Music Sync Function",
+    "slug": "wipro-next-smart-wi-fi-20w-cctrgb-led-batten-led-smart-tube-light-with-music-sync-function",
+    "category": "Electronics",
+    "price": 1249,
+    "originalPrice": 1249,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31K5RjIbw-L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31K5RjIbw-L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Wipro Next Smart Wi-Fi 20W CCT+RGB LED Batten, LED Smart Tube Light with Music Sync Function",
+    "features": [],
+    "asin": "B08D19X3LS"
+  },
+  {
+    "id": 27,
+    "name": "wipro 9-Watt B22 WiFi Smart LED Bulb with Music Sync",
+    "slug": "wipro-9-watt-b22-wifi-smart-led-bulb-with-music-sync",
+    "category": "Electronics",
+    "price": 589,
+    "originalPrice": 589,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41sx753+kXL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41sx753+kXL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "wipro 9-Watt B22 WiFi Smart LED Bulb with Music Sync",
+    "features": [],
+    "asin": "B095SWYF6M"
+  },
+  {
+    "id": 28,
+    "name": "Syvo S -1000 PRO 67 Inch (170CM) Tripod for DSLR, Camera",
+    "slug": "syvo-s-1000-pro-67-inch-170cm-tripod-for-dslr-camera",
+    "category": "Electronics",
+    "price": 1599,
+    "originalPrice": 1599,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41mHTY1xChL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41mHTY1xChL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Syvo S -1000 PRO 67 Inch (170CM) Tripod for DSLR, Camera",
+    "features": [],
+    "asin": "B095WFFMB1"
+  },
+  {
+    "id": 29,
+    "name": "Kreo Stayble Tripod Stand with Mobile Phone Holder for Ring Lights & Camera Light",
+    "slug": "kreo-stayble-tripod-stand-with-mobile-phone-holder-for-ring-lights-camera-light",
+    "category": "Electronics",
+    "price": 799,
+    "originalPrice": 799,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/316YAzJHswL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/316YAzJHswL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Kreo Stayble Tripod Stand with Mobile Phone Holder for Ring Lights & Camera Light",
+    "features": [],
+    "asin": "B0C84Z3QFF"
+  },
+  {
+    "id": 30,
+    "name": "Viltrox EF-EOS M Electronic AF Auto Focus Lens Mount Adapter",
+    "slug": "viltrox-ef-eos-m-electronic-af-auto-focus-lens-mount-adapter",
+    "category": "Electronics",
+    "price": 3399,
+    "originalPrice": 3399,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41evIZhnUXL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41evIZhnUXL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Viltrox EF-EOS M Electronic AF Auto Focus Lens Mount Adapter",
+    "features": [],
+    "asin": "B07J4FRLJ6"
+  },
+  {
+    "id": 31,
+    "name": "Yongnuo_ YN50 mm F1.8 Lens Large Aperture Auto Focus Lens for Canon EF Mount",
+    "slug": "yongnuo_-yn50-mm-f18-lens-large-aperture-auto-focus-lens-for-canon-ef-mount",
+    "category": "Electronics",
+    "price": 7500,
+    "originalPrice": 7500,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41pnd9HPQWL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41pnd9HPQWL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Yongnuo_ YN50 mm F1.8 Lens Large Aperture Auto Focus Lens for Canon EF Mount",
+    "features": [],
+    "asin": "B0722SK43M"
+  },
+  {
+    "id": 32,
+    "name": "Digitek (DRB 5-1) Camera Reflector 45-inch /110 cm 5 in 1 Collapsible Multi-Disc Light",
+    "slug": "digitek-drb-5-1-camera-reflector-45-inch-110-cm-5-in-1-collapsible-multi-disc-light",
+    "category": "Electronics",
+    "price": 899,
+    "originalPrice": 899,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/314FPi9E0xL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/314FPi9E0xL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Digitek (DRB 5-1) Camera Reflector 45-inch /110 cm 5 in 1 Collapsible Multi-Disc Light",
+    "features": [],
+    "asin": "B0BNB9D8Z9"
+  },
+  {
+    "id": 33,
+    "name": "Wolpin Solid White Wallpaper 45x300cm DIY Self Adhesive PVC Wall Covering",
+    "slug": "wolpin-solid-white-wallpaper-45x300cm-diy-self-adhesive-pvc-wall-covering",
+    "category": "Electronics",
+    "price": 199,
+    "originalPrice": 199,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31dSD6-7a2L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31dSD6-7a2L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Wolpin Solid White Wallpaper 45x300cm DIY Self Adhesive PVC Wall Covering",
+    "features": [],
+    "asin": "B08MBY72DX"
+  },
+  {
+    "id": 34,
+    "name": "DIGITEK® (DPTR 895VD) 195 CM Tripod Cum Monopod with Aluminum Alloy",
+    "slug": "digitek-dptr-895vd-195-cm-tripod-cum-monopod-with-aluminum-alloy",
+    "category": "Electronics",
+    "price": 2899,
+    "originalPrice": 2899,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31S75oB+njL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31S75oB+njL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DIGITEK® (DPTR 895VD) 195 CM Tripod Cum Monopod with Aluminum Alloy",
+    "features": [],
+    "asin": "B0CC55RB89"
+  },
+  {
+    "id": 35,
+    "name": "HIFFIN 10 PCS Photography Backdrop Support Spring Clamp 4.3\"/11cm",
+    "slug": "hiffin-10-pcs-photography-backdrop-support-spring-clamp-4311cm",
+    "category": "Electronics",
+    "price": 399,
+    "originalPrice": 399,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41x9LGX2wzL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41x9LGX2wzL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "HIFFIN 10 PCS Photography Backdrop Support Spring Clamp 4.3\"/11cm",
+    "features": [],
+    "asin": "B08WHN9C5T"
+  },
+  {
+    "id": 36,
+    "name": "Hiffin 8 x 12 FT 3 PCS | Black | White | Green Backdrop Photo Light Studio",
+    "slug": "hiffin-8-x-12-ft-3-pcs-black-white-green-backdrop-photo-light-studio",
+    "category": "Electronics",
+    "price": 1249,
+    "originalPrice": 1249,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41x4+79Dy0L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41x4+79Dy0L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Hiffin 8 x 12 FT 3 PCS | Black | White | Green Backdrop Photo Light Studio",
+    "features": [],
+    "asin": "B08WHHHHCK"
+  },
+  {
+    "id": 37,
+    "name": "PROLITE Background Support Kit (9ft x 9ft) for Backdrop Photography & Videography",
+    "slug": "prolite-background-support-kit-9ft-x-9ft-for-backdrop-photography-videography",
+    "category": "Electronics",
+    "price": 1699,
+    "originalPrice": 1699,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/415GBYsMm2L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/415GBYsMm2L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "PROLITE Background Support Kit (9ft x 9ft) for Backdrop Photography & Videography",
+    "features": [],
+    "asin": "B085F3R5YN"
+  },
+  {
+    "id": 38,
+    "name": "DIGITEK® (DSBH-055) 55cm Octa Soft Box Kit with S2 Type Bracket",
+    "slug": "digitek-dsbh-055-55cm-octa-soft-box-kit-with-s2-type-bracket",
+    "category": "Electronics",
+    "price": 2199,
+    "originalPrice": 2199,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41CB6g+2dWL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41CB6g+2dWL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DIGITEK® (DSBH-055) 55cm Octa Soft Box Kit with S2 Type Bracket",
+    "features": [],
+    "asin": "B0822VX849"
+  },
+  {
+    "id": 39,
+    "name": "DIGITEK® (DLS-9FT) Lightweight & Portable Aluminum Alloy Light Stand",
+    "slug": "digitek-dls-9ft-lightweight-portable-aluminum-alloy-light-stand",
+    "category": "Electronics",
+    "price": 699,
+    "originalPrice": 699,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31ouSkwWDmL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31ouSkwWDmL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "DIGITEK® (DLS-9FT) Lightweight & Portable Aluminum Alloy Light Stand",
+    "features": [],
+    "asin": "B088GXTJM3"
+  },
+  {
+    "id": 40,
+    "name": "Crompton Aluminium Gleam 30W LED Flood Light | Outdoor Waterproof Security Light",
+    "slug": "crompton-aluminium-gleam-30w-led-flood-light-outdoor-waterproof-security-light",
+    "category": "Electronics",
+    "price": 899,
+    "originalPrice": 899,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/410FU1XgqzL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/410FU1XgqzL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Crompton Aluminium Gleam 30W LED Flood Light | Outdoor Waterproof Security Light",
+    "features": [],
+    "asin": "B0BDF4W9LK"
+  },
+  {
+    "id": 41,
+    "name": "APTECH DEALS Digital Multimeter LCD AC DC Measuring Voltage Current",
+    "slug": "aptech-deals-digital-multimeter-lcd-ac-dc-measuring-voltage-current",
+    "category": "Electronics",
+    "price": 239,
+    "originalPrice": 239,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41xLi7JAZWL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41xLi7JAZWL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "APTECH DEALS Digital Multimeter LCD AC DC Measuring Voltage Current",
+    "features": [],
+    "asin": "B07KK5LZBK"
+  },
+  {
+    "id": 42,
+    "name": "Konvio Neer Imported Tds Meter, Total Dissolved Solids Meter, Water Quality Tester",
+    "slug": "konvio-neer-imported-tds-meter-total-dissolved-solids-meter-water-quality-tester",
+    "category": "Electronics",
+    "price": 299,
+    "originalPrice": 299,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/21l5+NsxCxS._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/21l5+NsxCxS._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Konvio Neer Imported Tds Meter, Total Dissolved Solids Meter, Water Quality Tester",
+    "features": [],
+    "asin": "B08HSN58RK"
+  },
+  {
+    "id": 43,
+    "name": "VIBOTON WiFi Digital Microscope, 50X-1000X Handheld Digital Zoom Microscope",
+    "slug": "viboton-wifi-digital-microscope-50x-1000x-handheld-digital-zoom-microscope",
+    "category": "Electronics",
+    "price": 2849,
+    "originalPrice": 2849,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41uhgZWmgIL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41uhgZWmgIL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "VIBOTON WiFi Digital Microscope, 50X-1000X Handheld Digital Zoom Microscope",
+    "features": [],
+    "asin": "B085MC3PWK"
+  },
+  {
+    "id": 44,
+    "name": "STANLEY STHT36127-812 5-Meter Plastic Short Measuring Tape",
+    "slug": "stanley-stht36127-812-5-meter-plastic-short-measuring-tape",
+    "category": "Electronics",
+    "price": 149,
+    "originalPrice": 149,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31sT6A07yQL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31sT6A07yQL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "STANLEY STHT36127-812 5-Meter Plastic Short Measuring Tape",
+    "features": [],
+    "asin": "B07BLZ8SHK"
+  },
+  {
+    "id": 45,
+    "name": "Casio FX-991CW Classwiz Non-Programmable Scientific Calculator",
+    "slug": "casio-fx-991cw-classwiz-non-programmable-scientific-calculator",
+    "category": "Electronics",
+    "price": 1404,
+    "originalPrice": 1404,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41mVTwoikiL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41mVTwoikiL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Casio FX-991CW Classwiz Non-Programmable Scientific Calculator",
+    "features": [],
+    "asin": "B0BLVCFK8D"
+  },
+  {
+    "id": 46,
+    "name": "Inditrust Red 46 In 1 Pcs Tool Kit For Home Use Spanner Set Socket Set",
+    "slug": "inditrust-red-46-in-1-pcs-tool-kit-for-home-use-spanner-set-socket-set",
+    "category": "Electronics",
+    "price": 566,
+    "originalPrice": 566,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/71bWbrmAuML._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71bWbrmAuML._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Inditrust Red 46 In 1 Pcs Tool Kit For Home Use Spanner Set Socket Set",
+    "features": [],
+    "asin": "B07QQZYGSP"
+  },
+  {
+    "id": 47,
+    "name": "STANLEY STMT72794-8 1/4'' 46-PIECE Square Drive Metric Socket & Bit Set",
+    "slug": "stanley-stmt72794-8-14-46-piece-square-drive-metric-socket-bit-set",
+    "category": "Electronics",
+    "price": 2500,
+    "originalPrice": 2500,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41dVFhlLQ6L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41dVFhlLQ6L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "STANLEY STMT72794-8 1/4'' 46-PIECE Square Drive Metric Socket & Bit Set",
+    "features": [],
+    "asin": "B00N9RCNXI"
+  },
+  {
+    "id": 48,
+    "name": "Taparia Model 802 Screwdriver Set | Neon Bulb Tester Included",
+    "slug": "taparia-model-802-screwdriver-set-neon-bulb-tester-included",
+    "category": "Electronics",
+    "price": 212,
+    "originalPrice": 212,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41b9KpZtPsL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41b9KpZtPsL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Taparia Model 802 Screwdriver Set | Neon Bulb Tester Included",
+    "features": [],
+    "asin": "B00LGE2P4I"
+  },
+  {
+    "id": null,
+    "name": "CELLO Click it Steel Insulated Lunch Box, Big, 1024ml, Blue | 2 Container Tiffin for Adults | Snacks Tiffin for Kids with Veg Box | Leak-Proof & Unbreakable Lid | Ideal for Office, School, College",
+    "slug": "cello-click-it-steel-insulated-lunch-box-big-1024ml-blue-2-container-tiffin-for-adults-snacks-tiffin",
+    "category": "Electronics",
+    "price": 799,
+    "originalPrice": 799,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41akuJNx2OL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41akuJNx2OL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "CELLO Click it Steel Insulated Lunch Box, Big, 1024ml, Blue | 2 Container Tiffin for Adults | Snacks Tiffin for Kids with Veg Box | Leak-Proof & Unbreakable Lid | Ideal for Office, School, College",
+    "features": [],
+    "asin": "B07YYL4CSL"
+  },
+  {
+    "id": null,
+    "name": "CELLO Esquire Inner Steel Insulated Lunch Box 915ml, Blue | Food Grade Steel Two Compartments Tiffin Box, Air Tight Four Side Clip Lock Lid | Leak Proof Steel Lunch Box for School Kids Office Outdoor",
+    "slug": "cello-esquire-inner-steel-insulated-lunch-box-915ml-blue-food-grade-steel-two-compartments-tiffin-bo",
+    "category": "Electronics",
+    "price": 799,
+    "originalPrice": 799,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41Orb0f7kcL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41Orb0f7kcL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "CELLO Esquire Inner Steel Insulated Lunch Box 915ml, Blue | Food Grade Steel Two Compartments Tiffin Box, Air Tight Four Side Clip Lock Lid | Leak Proof Steel Lunch Box for School Kids Office Outdoor",
+    "features": [],
+    "asin": "B0CQVDJYNV"
+  },
+  {
+    "id": null,
+    "name": "Best Seller",
+    "slug": "best-seller",
+    "category": "Electronics",
+    "price": 879,
+    "originalPrice": 879,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41VG4cW9U1L._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41VG4cW9U1L._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Best Seller",
+    "features": [],
+    "asin": "B0BMGNK4SP"
+  },
+  {
+    "id": null,
+    "name": "MILTON Tasty 3 Lunch Box with Insulated Fabric Jacket, 3 Stainless Steel Containers (210 ml, 340 ml, 500ml), Leak-Proof Tiffin for Office, College, Picnic, Blue",
+    "slug": "milton-tasty-3-lunch-box-with-insulated-fabric-jacket-3-stainless-steel-containers-210-ml-340-ml-500",
+    "category": "Electronics",
+    "price": 519,
+    "originalPrice": 519,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41bb2WbespL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41bb2WbespL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "MILTON Tasty 3 Lunch Box with Insulated Fabric Jacket, 3 Stainless Steel Containers (210 ml, 340 ml, 500ml), Leak-Proof Tiffin for Office, College, Picnic, Blue",
+    "features": [],
+    "asin": "B07YYDMXHF"
+  },
+  {
+    "id": null,
+    "name": "MILTON New Steel Combi Lunch Box, 3 Stainless Steel Containers and 1 Plastic Tumbler with Jacket, Set of 6, Blue | Food Grade | Light Weight | Dishwasher Safe | Easy to Carry | Leak Proof Tiffin",
+    "slug": "milton-new-steel-combi-lunch-box-3-stainless-steel-containers-and-1-plastic-tumbler-with-jacket-set-",
+    "category": "Electronics",
+    "price": 542,
+    "originalPrice": 542,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41VFGZ+ZRWL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41VFGZ+ZRWL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "MILTON New Steel Combi Lunch Box, 3 Stainless Steel Containers and 1 Plastic Tumbler with Jacket, Set of 6, Blue | Food Grade | Light Weight | Dishwasher Safe | Easy to Carry | Leak Proof Tiffin",
+    "features": [],
+    "asin": "B09N3FM2XH"
+  },
+  {
+    "id": null,
+    "name": "MILTON Corporate Lunch Stainless Steel Containers Set of 3, Yellow",
+    "slug": "milton-corporate-lunch-stainless-steel-containers-set-of-3-yellow",
+    "category": "Electronics",
+    "price": 690,
+    "originalPrice": 690,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41VrcU-RvsL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41VrcU-RvsL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "MILTON Corporate Lunch Stainless Steel Containers Set of 3, Yellow",
+    "features": [],
+    "asin": "B07TVD48RH"
+  },
+  {
+    "id": 49,
+    "name": "Amazon Brand - Solimo\nAmazon Brand - Solimo Stainless Steel Water Bottle, Set of 3, 1 L Each (Blitz)",
+    "slug": "amazon-brand-solimo-amazon-brand-solimo-stainless-steel-water-bottle-set-of-3-1-l-each-blitz",
+    "category": "Electronics",
+    "price": 839,
+    "originalPrice": 839,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/41jXz+dId5S._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41jXz+dId5S._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "Amazon Brand - Solimo\nAmazon Brand - Solimo Stainless Steel Water Bottle, Set of 3, 1 L Each (Blitz)",
+    "features": [],
+    "asin": "B0929P7NT1"
+  },
+  {
+    "id": 50,
+    "name": "CELLO\nCELLO H2O Stainless Steel Water Bottle, 1000ml Silver | Single Walled, Food Grade ISI Certified Steel Bottle | Leakproof Lid Steel Fridge Bottle For School Kids, College, Office, Gym, Travel & Outdoor",
+    "slug": "cello-cello-h2o-stainless-steel-water-bottle-1000ml-silver-single-walled-food-grade-isi-certified-st",
+    "category": "Electronics",
+    "price": 299,
+    "originalPrice": 299,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/310RV-hFMiL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/310RV-hFMiL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "CELLO\nCELLO H2O Stainless Steel Water Bottle, 1000ml Silver | Single Walled, Food Grade ISI Certified Steel Bottle | Leakproof Lid Steel Fridge Bottle For School Kids, College, Office, Gym, Travel & Outdoor",
+    "features": [],
+    "asin": "B07F5SL8HR"
+  },
+  {
+    "id": 51,
+    "name": "MILTON\nMILTON Aqua 1000 Stainless Steel Water Bottle, 920 ml, Silver | Leak Proof | Office Bottle | Gym Bottle | Home | Kitchen | Hiking | Treking, Travel (Pack of 1)",
+    "slug": "milton-milton-aqua-1000-stainless-steel-water-bottle-920-ml-silver-leak-proof-office-bottle-gym-bott",
+    "category": "Electronics",
+    "price": 331,
+    "originalPrice": 331,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31m4Br0LzaL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31m4Br0LzaL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "description": "MILTON\nMILTON Aqua 1000 Stainless Steel Water Bottle, 920 ml, Silver | Leak Proof | Office Bottle | Gym Bottle | Home | Kitchen | Hiking | Treking, Travel (Pack of 1)",
+    "features": [],
+    "asin": "B079R9W1B6"
+  },
+  {
+    "id": 52,
+    "name": "D-Link\nD-Link DIR-615 Wi-fi Ethernet-N300 Single_band 300Mbps Router, Mobile App Support, Router | AP | Repeater | Client Modes(Black)\n₹1,099.00\n₹1,099\n.\n00\nList Price: \n₹1,299.00\nFulfilled\nThis item cannot be shipped to your selected delivery location. Choose a different delivery location.\nSee details",
+    "slug": "d-link-d-link-dir-615-wi-fi-ethernet-n300-single_band-300mbps-router-mobile-app-support-router-ap-re",
+    "category": "Electronics",
+    "price": 1099,
+    "originalPrice": 1099,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/31C9PTrkerL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/31C9PTrkerL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "asin": "B0085IATT6",
+    "description": "D-Link\nD-Link DIR-615 Wi-fi Ethernet-N300 Single_band 300Mbps Router, Mobile App Support, Router | AP | Repeater | Client Modes(Black)\n₹1,099.00\n₹1,099\n.\n00\nList Price: \n₹1,299.00\nFulfilled\nThis item cannot be shipped to your selected delivery location. Choose a different delivery location.\nSee details",
+    "features": []
+  },
+  {
+    "id": 53,
+    "name": "Inditrust\nInditrust Rj45 Rj11 Crimping Tool, double colour grip 150B cutter, KD-1 Professional Punch Down Tool, Network Lan Cable Tester, 9V battery & 25 Pcs RJ45 Connectors Combo Set\n34% off\nLimited time deal",
+    "slug": "inditrust-inditrust-rj45-rj11-crimping-tool-double-colour-grip-150b-cutter-kd-1-professional-punch-d",
+    "category": "Electronics",
+    "price": 661,
+    "originalPrice": 661,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51ztkKfNguL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51ztkKfNguL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "asin": "B079YW3YX3",
+    "description": "Inditrust\nInditrust Rj45 Rj11 Crimping Tool, double colour grip 150B cutter, KD-1 Professional Punch Down Tool, Network Lan Cable Tester, 9V battery & 25 Pcs RJ45 Connectors Combo Set\n34% off\nLimited time deal",
+    "features": []
+  },
+  {
+    "id": 54,
+    "name": "Best Seller",
+    "slug": "best-seller",
+    "category": "Electronics",
+    "price": 509,
+    "originalPrice": 509,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://m.media-amazon.com/images/I/51jNo4QNTNL._AC_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51jNo4QNTNL._AC_.jpg"
+    ],
+    "inStock": true,
+    "featured": false,
+    "asin": "B08CSJWWRN",
+    "description": "Best Seller",
+    "features": []
+  }
 ]

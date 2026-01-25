@@ -13,14 +13,14 @@ export default function Home() {
 
   useEffect(() => {
     // Load featured products
-    fetch('/data/products.json')
+    fetch(import.meta.env.BASE_URL + 'data/products.json')
       .then(res => res.json())
       .then((data: Product[]) => {
         setFeaturedProducts(data.filter(p => p.featured).slice(0, 4));
       });
 
     // Load latest blog posts
-    fetch('/data/blog-posts.json')
+    fetch(import.meta.env.BASE_URL + 'data/blog-posts.json')
       .then(res => res.json())
       .then((data: BlogPost[]) => {
         setLatestPosts(data.slice(0, 3));

@@ -19,7 +19,7 @@ export default function ProductDetail() {
   const [selectedImage, setSelectedImage] = useState(0);
 
   useEffect(() => {
-    fetch('/data/products.json')
+    fetch(import.meta.env.BASE_URL + 'data/products.json')
       .then(res => res.json())
       .then((data: Product[]) => {
         const found = data.find(p => p.slug === slug);
@@ -52,7 +52,7 @@ export default function ProductDetail() {
       name: product.name,
       price: product.price,
       image: product.image,
-      affiliateUrl: product.affiliateUrl,
+      asin: product.asin,
     });
     toast.success('Added to cart!');
   };
@@ -76,7 +76,7 @@ export default function ProductDetail() {
               <img
                 src={product.images[selectedImage]}
                 alt={product.name}
-                className="w-full h-[500px] object-cover"
+                className="w-full h-[500px] object-contain bg-white"
               />
               {discount > 0 && (
                 <Badge className="absolute top-4 left-4 bg-destructive text-destructive-foreground text-lg px-3 py-1">
@@ -90,9 +90,8 @@ export default function ProductDetail() {
                   <button
                     key={idx}
                     onClick={() => setSelectedImage(idx)}
-                    className={`border-2 rounded-md overflow-hidden transition-all ${
-                      selectedImage === idx ? 'border-primary' : 'border-border'
-                    }`}
+                    className={`border-2 rounded-md overflow-hidden transition-all ${selectedImage === idx ? 'border-primary' : 'border-border'
+                      }`}
                   >
                     <img src={img} alt={`${product.name} ${idx + 1}`} className="w-full h-24 object-cover" />
                   </button>
@@ -108,17 +107,16 @@ export default function ProductDetail() {
                 {product.category}
               </Badge>
               <h1 className="text-4xl font-bold mb-4">{product.name}</h1>
-              
+
               <div className="flex items-center gap-4 mb-4">
                 <div className="flex items-center">
                   {[...Array(5)].map((_, i) => (
                     <Star
                       key={i}
-                      className={`h-5 w-5 ${
-                        i < Math.floor(product.rating)
-                          ? 'fill-accent text-accent'
-                          : 'text-muted-foreground'
-                      }`}
+                      className={`h-5 w-5 ${i < Math.floor(product.rating)
+                        ? 'fill-accent text-accent'
+                        : 'text-muted-foreground'
+                        }`}
                     />
                   ))}
                 </div>
@@ -174,7 +172,7 @@ export default function ProductDetail() {
                 asChild
               >
                 <a
-                  href={product.affiliateUrl}
+                  href={`https://www.amazon.in/dp/${product.asin}/?tag=chella09-21`}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                 >

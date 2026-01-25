@@ -11,7 +11,7 @@ export default function Blog() {
   const [categories, setCategories] = useState<string[]>([]);
 
   useEffect(() => {
-    fetch('/data/blog-posts.json')
+    fetch(import.meta.env.BASE_URL + 'data/blog-posts.json')
       .then(res => res.json())
       .then((data: BlogPost[]) => {
         setPosts(data);

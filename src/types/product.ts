@@ -11,7 +11,7 @@ export interface Product {
   images: string[];
   inStock: boolean;
   featured: boolean;
-  affiliateUrl: string;
+  asin: string;
   description: string;
   features: string[];
   specifications?: Record<string, string>;

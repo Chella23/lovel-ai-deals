@@ -26,7 +26,7 @@ export const ProductDetailModal = ({ product, open, onOpenChange }: ProductDetai
       name: product.name,
       price: product.price,
       image: product.image,
-      affiliateUrl: product.affiliateUrl,
+      asin: product.asin,
     });
     toast.success('Added to cart!');
   };
@@ -46,7 +46,7 @@ export const ProductDetailModal = ({ product, open, onOpenChange }: ProductDetai
                 <img
                   src={product.image}
                   alt={product.name}
-                  className="w-full h-80 object-cover rounded-lg"
+                  className="w-full h-80 object-contain bg-white rounded-lg"
                 />
                 {discount > 0 && (
                   <Badge className="absolute top-3 left-3 bg-gradient-cta text-accent-foreground shadow-accent">
@@ -121,7 +121,7 @@ export const ProductDetailModal = ({ product, open, onOpenChange }: ProductDetai
                   </Button>
                   <Button variant="outline" asChild>
                     <a
-                      href={product.affiliateUrl}
+                      href={`https://www.amazon.in/dp/${product.asin}/?tag=chella09-21`}
                       target="_blank"
                       rel="noopener noreferrer nofollow"
                     >
